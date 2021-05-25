@@ -28,7 +28,7 @@ and/or
 
 ## Subsidiary Management Plans
 | Name | Comment| Variance Threshold | Baseline Management |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | --- | Description or Links to doc | Define acceptable/warning/unacceptable | How the baseline will be monitored and managed. Describe responses to variance |
 | Scope | --- | --- | --- |
 | Time | --- | --- | --- |
