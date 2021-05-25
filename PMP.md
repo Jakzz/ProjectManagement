@@ -1,15 +1,15 @@
 # Doc Title
-
-|Field|Field description and guidance completion|
+* Dept/Team
+* Field description and guidance completion
 
 ## Project details and Document Control
-*Project Name
-*Project Ref
-*Doc ID
-*Owner
-*Issue Date
-*Last Saved Date
-*FileName/Path
+* Project Name
+* Project Ref
+* Doc ID
+* Owner
+* Issue Date
+* Last Saved Date
+* FileName/Path
 
 ## Project Lifecycle
 | Phase | Key Activities | Key Deliverables |
